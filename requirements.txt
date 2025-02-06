@@ -1,6 +1,6 @@
 streamlit
 pandas
-kagglehub=0.3.6
+kagglehub==0.3.6
 os
 altair
 numpy

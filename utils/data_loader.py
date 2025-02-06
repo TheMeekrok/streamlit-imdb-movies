@@ -2,7 +2,6 @@ import kagglehub
 import os
 import pandas as pd
 import streamlit as st
-import os
 
 
 @st.cache_resource
